@@ -1,7 +1,7 @@
 import React from "react";
 
 // component
-import Poster from "../components/Poster/poster.component";
+import Poster from "../components/poster/poster.component";
 import PlaysFilter from "../components/PlaysFilters/PlaysFilters.component";
 
 const Plays = () => {
